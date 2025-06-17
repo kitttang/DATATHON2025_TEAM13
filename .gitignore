@@ -196,7 +196,7 @@ cython_debug/
 
 # Large files or datasets
 *.h5
-*.csv
+#*.csv
 *.pkl
 *.db
 *.zip
